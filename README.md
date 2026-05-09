@@ -13,11 +13,10 @@ I'm Hayden Olson, a student at Brigham Young University-Idaho interested in Soft
 ## Technologies and Tools
 
 - Proficient in: Python, C#, HTML, CSS, C++, and Godot.
-- Skills: <Any Other Skills or Tools You Want to Highlight>
+- Skills: I do my best to keep things organized.
 
 ## Let's Connect!
 
 - Here is my [LinkedIn](https://www.linkedin.com/in/hayden-olson-44ba22394/) profile
-- Here is my [Twitter](Your Twitter Profile Link) profile
 
 Feel free to explore my repositories and don't hesitate to reach out. Happy coding! 🚀
