@@ -1,4 +1,4 @@
-# <Hayden Olson>
+# Hayden Olson
 
 Hello, GitHub! 👋
 
